@@ -17,11 +17,12 @@ Este escáner integra la librería `python-nmap` para realizar análisis de puer
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/FabricioRodriguez-SI/python-nmap-scanner.git
+   (https://github.com/FabricioRodriguez-SI/python-nmap-scanner/edit/main/README.md)
 
 ## 👨‍💻 Autor
 **Fabricio Rodríguez**  
 Estudiante de Licenciatura en Seguridad Informática - Universidad Siglo 21  
 [LinkedIn]: (www.linkedin.com/in/fabricio-rodriguezz)
+
 
 
