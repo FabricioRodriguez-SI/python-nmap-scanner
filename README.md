@@ -17,5 +17,6 @@ Este proyecto está orientado a la práctica de **seguridad informática** y pue
 ## 📦 Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/python-vulnerability-scanner.git
+   git clone https://github.com/FabricioRodriguez-SI/python-vulnerability-scanner.git
    cd python-vulnerability-scanner
+
