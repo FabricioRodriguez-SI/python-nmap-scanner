@@ -1,22 +1,27 @@
-# 🔍 Python Vulnerability Scanner
+# Escáner de Puertos en Python con Nmap
 
-Un escáner de vulnerabilidades básico escrito en **Python** que permite analizar puertos abiertos en una IP o dominio y generar un reporte en formato **JSON**.  
-Este proyecto está orientado a la práctica de **seguridad informática** y puede servir como herramienta educativa para entender cómo funcionan los análisis de red.
-
----
-
-## 🚀 Características
-- Escaneo de puertos comunes (1-1024).
-- Detección de servicios activos.
-- Reporte automático en formato JSON.
-- Colores en consola para mejor visualización.
-- Fácil de usar desde la terminal.
+Proyecto desarrollado como parte de mi formación en **Licenciatura en Seguridad Informática en la Universidad Siglo 21**.  
+Este escáner integra la librería `python-nmap` para realizar análisis de puertos en un dominio de prueba seguro (`scanme.nmap.org`), generando reportes en formato JSON para su posterior interpretación.
 
 ---
 
-## 📦 Instalación
-1. Clona el repositorio:
+## 📂 Funcionalidades
+- Escaneo de puertos específicos (22, 80, 113, 139, 445).
+- Exportación automática de resultados en formato JSON (`reporte.json`).
+- Interpretación de estados de puertos: **open**, **closed**, **filtered**.
+- Ejemplo práctico de integración entre Python y Nmap.
+
+---
+
+## ⚙️ Instalación
+
+1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/FabricioRodriguez-SI/python-vulnerability-scanner.git
-   cd python-vulnerability-scanner
+   git clone https://github.com/FabricioRodriguez-SI/python-nmap-scanner.git
+
+## 👨‍💻 Autor
+**Fabricio Rodríguez**  
+Estudiante de Licenciatura en Seguridad Informática - Universidad Siglo 21  
+[LinkedIn]: (www.linkedin.com/in/fabricio-rodriguezz)
+
 
